@@ -1,0 +1,42 @@
+#main{
+   margin-top: 50px;
+   margin-left: 200px;
+   margin-right: 200px;
+   background-color: white;
+   text-align: center;
+   height: 450px;
+}
+#name{
+   color: black;
+   font-size: 35px;
+}
+#button{
+   background-color: rgb(214, 210, 210);
+   border: none;
+   color: black;
+   padding: 12px 137px;
+   font-size: 16px;
+}
+#input1{
+   background-color: rgb(214, 213, 213);
+   padding: 9px 65px;
+   font-size: 16px;
+}
+#input2{
+   background-color: rgb(214, 213, 213);
+   padding: 10px 133px;
+}
+#lists {
+   background-color: rgb(18, 255, 184);
+   margin-top: 20px;
+   margin-left: 400px;
+   margin-right: 400px;
+   text-align: center;
+   height: auto;
+}
+#values{
+   margin: auto;
+   font-size: 45px;
+   max-width: 500px;
+
+}
